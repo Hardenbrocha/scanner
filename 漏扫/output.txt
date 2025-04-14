@@ -1,0 +1,10 @@
+http://18.141.197.93:9001/minio/bootstrap/v1/verify 存在MinIO信息泄露漏洞（CVE-2023-28432）
+http://54.255.136.172:9001/minio/bootstrap/v1/verify 存在MinIO信息泄露漏洞（CVE-2023-28432）
+http://18.141.197.93:9001/minio/bootstrap/v1/verify 存在MinIO信息泄露漏洞（CVE-2023-28432）
+http://54.255.136.172:9001/minio/bootstrap/v1/verify 存在MinIO信息泄露漏洞（CVE-2023-28432）
+http://54.255.136.172:9001/minio/bootstrap/v1/verify 存在MinIO信息泄露漏洞（CVE-2023-28432）
+http://18.141.197.93:9001/minio/bootstrap/v1/verify 存在MinIO信息泄露漏洞（CVE-2023-28432）
+http://18.141.197.93:9001/minio/bootstrap/v1/verify 存在MinIO信息泄露漏洞（CVE-2023-28432）
+http://54.255.136.172:9001/minio/bootstrap/v1/verify 存在MinIO信息泄露漏洞（CVE-2023-28432）
+http://18.141.197.93:9001/minio/bootstrap/v1/verify 存在MinIO信息泄露漏洞（CVE-2023-28432）
+http://54.255.136.172:9001/minio/bootstrap/v1/verify 存在MinIO信息泄露漏洞（CVE-2023-28432）
